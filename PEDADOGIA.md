@@ -22,3 +22,39 @@ Este documento establece las bases educativas para evitar el apalancamiento soci
 
 ## 5. Prevención del Apalancamiento Social
 La educación logocrática busca que el individuo nunca sea un sujeto pasivo. Al ofrecer un abanico amplio de saberes y fomentar la investigación propia, garantizamos que la sociedad sea una red dinámica de mentes despiertas, imposibles de "apalancar" mediante dogmas o inercias.
+
+# Manifiesto de Pedagogía Logocrática: El Motor de la Emancipación
+
+Este documento propone un modelo educativo diseñado para evitar el **apalancamiento social** (estancamiento por inercia o dogma). La Logocracia requiere ciudadanos que no solo posean la palabra, sino que sean soberanos de su biología, sus emociones y su capacidad de acción.
+
+## 1. Filosofía de Base: El Maestro como Guía
+Se rechaza la docencia dogmática. El maestro no es el centro del saber, sino un **facilitador de herramientas**. Su misión es ofrecer un abanico amplio de posibilidades donde el actor principal sea el alumno, fomentando la curiosidad y la investigación autónoma.
+
+## 2. Pilares Fundamentales
+*   **Gestión Biológica y Emocional:** El conocimiento del cuerpo y la autorregulación mediante la respiración son la base de la lógica. Sin dominio del pulso biológico, no hay pensamiento claro.
+*   **La Emoción como Dato:** No se busca un relato sentimental, sino entender la emoción como un motor para la creatividad y la resolución lógica de problemas.
+*   **Aprendizaje Lúdico-Ambiental:** Equilibrio estricto entre reflexión en aula y aprendizaje-juego en exteriores. La interacción con el medio ambiente previene la atrofia intelectual.
+*   **Sinergia Tutor-Familia:** Comunicación bidireccional constante para mapear motivaciones intrínsecas y detectar "ventanas de oportunidad" de crecimiento.
+
+## 3. Desarrollo por Periodos Madurativos
+
+### Etapa I: Cimentación (0 - 7 años) - El Dominio del Yo
+*   **Enfoque:** 100% lúdico. Introducción de la respiración animal para gestionar el estrés infantil antes del bloqueo.
+*   **Dinámica:** "Círculos de Elección". Debates simples sobre el uso de espacios comunes para aprender el turno de palabra.
+*   **Entorno:** Observación de la naturaleza como primera "empresa" funcional (huertos, colmenas).
+
+### Etapa II: Exploración (7 - 14 años) - El Abanico de Posibilidades
+*   **Enfoque:** Curiosidad y transversalidad. Visitas a empresas para motivar la curiosidad por el mundo productivo.
+*   **Gestión del Estrés:** "La Pausa Lógica". Protocolo de enfriamiento tras errores o derrotas para analizar la ejecución sin criminalizar a la persona.
+*   **Cultura Deportiva:** Respeto absoluto a la regla y al contrincante. La derrota se acepta como un dato necesario para la superación.
+*   **Dinámica de Debate:** "Defensa de lo Opuesto". Obligación de argumentar posturas contrarias a la propia para flexibilizar la mente.
+
+### Etapa III: Especialización Dinámica (14 - 18+ años) - La Razón en Acción
+*   **Enfoque:** Especialización por motivación, pero con la obligación de cursar materias ajenas al perfil propio (ej. lógica para artistas) para evitar el sesgo.
+*   **Gestión del Estrés:** "Soberanía bajo Presión". Simulacros de toma de decisiones en entornos de alta responsabilidad manteniendo el bio-control.
+*   **Ejercicios de Empresa:** "Prácticas de Investigación". El alumno propone soluciones creativas a problemas reales detectados en sus visitas a empresas.
+*   **Debate:** "Tribunal Logocrático". Ejercicios de gobernanza donde la fuerza del argumento lógico prevalece sobre la jerarquía.
+
+## 4. Ética de la Corrección
+Normativa rígida en el respeto a los demás, pero flexibilidad total ante el error técnico. Se corrige mediante el **ejemplo** y la comprensión racional de las consecuencias, nunca mediante el castigo sentimental.
+
