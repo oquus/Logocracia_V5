@@ -31,4 +31,3 @@ En un acto institucional de "Traspaso del Logos":
 
 ---
 *Este protocolo asegura que el cambio de era sea una actualización de sistema consensuada, no una fractura social traumática.*
-
