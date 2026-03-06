@@ -38,5 +38,14 @@ Este es un proyecto de código abierto para el pensamiento político. Si eres ju
 *   Realizar un **Fork** para adaptar el modelo a contextos locales específicos.
 *   Sugerir casos de prueba para el **Laboratorio de Depuración**.
 
+## ⚖️ Declaración de Transparencia y Cumplimiento
+Este repositorio se constituye como un **marco teórico de investigación de código abierto** (*Open Source Theoretical Framework*). 
+
+*   **Naturaleza del Proyecto:** El contenido aquí expuesto es una propuesta de arquitectura sistémica, filosófica y técnica. No constituye software de ejecución inmediata ni vulnera normativas de seguridad digital vigentes.
+*   **Uso Pacífico:** La Logocracia V5.0 está diseñada para el fortalecimiento de la transparencia institucional y la resiliencia de los datos públicos mediante métodos lógicos y criptográficos.
+*   **Legalidad:** Este proyecto se acoge a las libertades de expresión, investigación científica y creación intelectual. No promueve la desobediencia civil, sino la eficiencia de los procesos jurídicos mediante la tecnología.
+*   **Privacidad:** El sistema aboga por la protección de datos personales mediante el protocolo *Proof of Physicality*, garantizando la integridad de la información frente a la manipulación digital.
+
 ---
-*Documento custodiado por la red descentralizada bajo el protocolo Oquus.*
+**Repositorio Oficial de la Logocracia V5.0 - Gestión de Autoría: Oquus**
+
