@@ -21,7 +21,5 @@ Para que el "gobierno de las palabras" sea efectivo, el ciudadano debe ser dueñ
 *   **Comunicación Simbiótica:** Flujo constante de información entre padres y tutores sobre carácter, miedos y motivaciones para personalizar la pedagogía.
 *   **Detección de Oportunidades:** Identificación proactiva de avances y retrocesos para proponer ejercicios prácticos que incentiven el crecimiento orgánico del alumno en su hogar y su entorno social.
 
----
-**Contribución propuesta por:** [Tu Usuario/Nombre]
-**Estado:** Pendiente de revisión para integración en el manifiesto Logocracia.
+
 
